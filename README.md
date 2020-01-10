@@ -8,8 +8,8 @@
 * https://github.github.com/training-kit/downloads/zh_CN/github-git-cheat-sheet/
 
 # 位置模型
-* https://iswing.github.io/share-git/git-place-model/workspace%20__%20Git%20Cheatsheet.html#loc=stash
-* http://www.ndpsoftware.com/git-cheatsheet.html#loc=workspace
+* [转换后的地址](https://iswing.github.io/share-git/git-place-model/workspace%20__%20Git%20Cheatsheet.html#loc=stash)
+* [源地址要翻墙](http://www.ndpsoftware.com/git-cheatsheet.html#loc=workspace)
 
 # 对象模型
  http://gitbook.liuhui998.com/1_2.html
