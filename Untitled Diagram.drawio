@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-04T06:59:03.660Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="0eZP3U8Qwrf3qmT_iizw" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-04T07:00:37.065Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="jC-RpRE4yjOZvuLkL29l" version="14.1.8" type="github">
   <diagram id="BtsXeyVJJ4-kWYxq3Xoa" name="Page-1">
-    <mxGraphModel dx="2130" dy="1015" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="12000" pageHeight="16000" math="0" shadow="0">
+    <mxGraphModel dx="2483" dy="1015" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="12000" pageHeight="16000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -551,13 +551,22 @@
           <mxGeometry x="270" y="190" width="50" height="17.5" as="geometry" />
         </mxCell>
         <mxCell id="oRWARCPo0QpvzxCij0XQ-235" value="独立二级域名（dash.fjfuyu.net）" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1554" y="590" width="160" height="60" as="geometry" />
+          <mxGeometry x="1480" y="590" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oRWARCPo0QpvzxCij0XQ-256" value="独立二级域名（account.fjfuyu.net）" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="980" y="1920" width="160" height="60" as="geometry" />
+          <mxGeometry x="930" y="1920" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oRWARCPo0QpvzxCij0XQ-257" value="独立二级域名（edu.fjfuyu.net）" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="590" width="160" height="60" as="geometry" />
+          <mxGeometry x="1010" y="590" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oRWARCPo0QpvzxCij0XQ-259" value="独立数据库" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="590" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oRWARCPo0QpvzxCij0XQ-260" value="独立数据库" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="590" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oRWARCPo0QpvzxCij0XQ-261" value="独立数据库" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="1920" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
